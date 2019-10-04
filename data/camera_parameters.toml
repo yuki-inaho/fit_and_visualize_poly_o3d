@@ -1,0 +1,24 @@
+####################################
+###  Capture Camera Parameters  ####
+####################################
+
+[General]
+capture_frames = 5
+n_camera = 1
+smoothing_filter = 1
+
+
+[Camera0]
+#serial_no = "PD71A1CGD3280065P"
+serial_no = "PD71A1CGD3280054P"
+range1 = 0
+range2 = 2
+rgb_image = 0
+
+
+[Camera1]
+
+serial_no = "PD7110CGC8210372W"
+range1 = 0
+range2 = 2
+rgb_image = 0

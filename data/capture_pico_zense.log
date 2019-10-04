@@ -1,0 +1,104 @@
+Saving to : /home/inaho-00/catkin_ws/src/aspara_detector/out/20191004_17-11-22
+# of consecutive frames to capture : 5
+Registering 1 cameras.
+Detected 1 devices.
+Opening device : 0
+SERIAL : PD71A1CGD3280054P
+HW_VER : R2
+FW_VER : DCAM710_c086_pc_sv0.01_R6_20190322_b55
+
+Device with serial# PD71A1CGD3280054P is found at index :0
+Setting up device : 0
+WDR mode : near-far
+Intinsic parameters of device : 0
+serial_no = "PD71A1CGD3280054P"
+Camera type: Depth camera
+fx = 626.074
+fy = 625.603
+cx = 340.625
+cy = 238.199
+Intinsic parameters of device : 0
+serial_no = "PD71A1CGD3280054P"
+Camera type: RGB camera
+fx = 528.036
+fy = 527.657
+cx = 325.642
+cy = 188.557
+Device 0 SmoothingFilter : ON
+Started capturing on device : 0
+
+0 0
+Skipping frame, mode=2 : 1570176687407
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+Skipping frame, mode=2 : 1570176687878
+0 0
+0 0
+0 0
+0 0
+0 0
+Skipping frame, mode=2 : 1570176688083
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+Skipping frame, mode=2 : 1570176688413
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+Skipping frame, mode=2 : 1570176688691
+0 0
+0 0
+0 0
+Skipping frame, mode=2 : 1570176688815
+0 0
+0 0
+0 0
+Skipping frame, mode=2 : 1570176688972
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+Skipping frame, mode=2 : 1570176689282
+0 0
+0 0
+0 0
+Skipping frame, mode=2 : 1570176689438
+0 0
+Skipping frame, mode=2 : 1570176689495
+0 0
+0 0
+Skipping frame, mode=2 : 1570176689611
+0 0
+Skipping frame, mode=2 : 1570176689670
+0 0
+0 0
+Skipping frame, mode=2 : 1570176689787
+0 0
+Skipping frame, mode=2 : 1570176689843
+0 0
+Skipping frame, mode=2 : 1570176689899
+Closed device : 0
+Shutdown : 0
